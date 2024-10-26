@@ -2,9 +2,9 @@
 
 # Project Insights- Week 52 (24th Dec)
 - WoW change:
-- Revenue decreased by 12.83%,
-- Total Transaction Amt & Count decreased by 10.99% & 13.47%
-- Customer count deccreased by 15.98%
+ - Revenue decreased by 12.83%,
+ - Total Transaction Amt & Count decreased by 10.99% & 13.47%
+ - Customer count deccreased by 15.98%
 # Overview YTD:
  - Overall revenue is 55M
  - Total interest is 8M
