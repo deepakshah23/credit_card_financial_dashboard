@@ -1,4 +1,4 @@
-# credit_card_financial_dashboard
+# Credit_card_financial_dashboard
 
 # Project Insights- Week 52 (24th Dec)
 - WoW change:
